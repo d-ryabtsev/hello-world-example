@@ -21,8 +21,8 @@
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
-    "vue-cli-plugin-styleguidist": "4.45.0",
-    "vue-styleguidist": "4.48.0"
+    "vue-cli-plugin-styleguidist": "4.28.0",
+    "vue-styleguidist": "4.28.0"
 
   },
   "eslintConfig": {
